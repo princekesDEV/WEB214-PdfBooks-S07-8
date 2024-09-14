@@ -1,0 +1,17 @@
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    width: 80%;
+}
+td, th{
+    padding: 10px;
+}
